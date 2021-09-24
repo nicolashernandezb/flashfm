@@ -1,3 +1,5 @@
+# Main author: Dr. Jennifer Asimit.
+
 
 stepwise <- function(GWAS,Gmat,N,fstub) {
  tsnps <- colnames(Gmat) 

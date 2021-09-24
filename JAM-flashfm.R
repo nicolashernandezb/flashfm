@@ -1,3 +1,6 @@
+# Main author: Dr. Jennifer Asimit.
+# collaborator: Nicolas Hernandez
+
 
 library(flashfm); library(data.table); library(R2BGLiMS); library(parallel); library(MASS)
 
